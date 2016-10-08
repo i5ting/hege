@@ -39,6 +39,7 @@
     - qunit
     - mocha/jest/ava/tap
     - cucumber
+  - spies, stubs and mocks
   - faker/sinon
   - chai/should
   - jenkins/travis
