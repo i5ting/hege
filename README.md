@@ -7,11 +7,12 @@
   - git/svn/issues/pr
   - markdown
 - 前端框架
+  - 模块化加载seajs\requirejs\commonjs
+  - mvc/mvvm
   - Bootstrap
   - jQuery/Extjs/Dojo/Mootools/Yui
   - Backbone
   - Angular
-  - 模块化加载seajs\requirejs\commonjs
 - 移动端
   - h5/localstorage/websocket/canvas
   - phonegap/cordova
