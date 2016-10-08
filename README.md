@@ -50,5 +50,6 @@
   - linux/shell
   - 语言node、java、.net、php、python、perl等
   - rdbms/nosql
+  - 读过哪些经典的前端相关书？
   - 如何参与开源项目
   
